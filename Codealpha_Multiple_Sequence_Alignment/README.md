@@ -24,7 +24,7 @@ hemoglobin beta-chain proteins. Conserved regions and sequence
 variations were identified from the alignment.
 
 ## Files
-- Task-2-Report.pdf
+- Task 2.pdf
 - MSA-Alignment.png
 - Phylogenetic-Tree.png
 - Equus caballus.fasta.txt
