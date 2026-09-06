@@ -27,3 +27,8 @@ variations were identified from the alignment.
 - Task-2-Report.pdf
 - MSA-Alignment.png
 - Phylogenetic-Tree.png
+- Equus caballus.fasta.txt
+- Mus musculus.fasta.txt
+- Gorilla.fasta.txt
+- Pan troglodytes.fasta.txt
+- Homo sapiens_HBB.fasta.txt
