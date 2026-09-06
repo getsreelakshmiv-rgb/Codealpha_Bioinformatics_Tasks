@@ -55,7 +55,7 @@ The following steps were followed:
 
 * Task-4-Report.pdf
 * README.md
-* 
+  
 ## Conclusion
 
 NCBI, UniProt, and PDB are important resources in bioinformatics, but each has a different primary focus. NCBI provides broad access to biological and biomedical data, UniProt specializes in protein sequence and functional annotation, while PDB focuses on three-dimensional structures of biological macromolecules. Using these databases together provides a more complete understanding of genes, proteins, their functions, and structures.
